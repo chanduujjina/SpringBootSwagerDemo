@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "coolcoder.openapi.dev-url",
+  "type": "java.lang.String",
+  "description": "A description for 'coolcoder.openapi.dev-url'"
+}]}
